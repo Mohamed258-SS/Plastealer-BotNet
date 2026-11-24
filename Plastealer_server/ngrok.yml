@@ -1,0 +1,12 @@
+version: "2"
+authtoken: YOUR_NGROK_AUTHTOKEN
+tunnels:
+  server_bot_1:
+    proto: tcp
+    addr: 8888
+  server_bot_2:
+    proto: tcp
+    addr: 8889
+  server_bot_3:
+    proto: tcp
+    addr: 8890
