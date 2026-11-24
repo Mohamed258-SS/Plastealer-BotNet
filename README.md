@@ -1,4 +1,4 @@
-# Plastealer-BotNet
+# Plastealer-BotNet v1.0
 ### Windows Malware Analysis & Cybersecurity Research
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ## Overview
 
-**Plastealer BotNet** is a Windows-oriented Python project implementing a client-server architecture with characteristics associated with Remote Access Trojans (RATs) and botnet infrastructure.
+**Plastealer BotNet v1.0** is a Windows-oriented Python project implementing a client-server architecture with characteristics associated with Remote Access Trojans (RATs) and botnet infrastructure.
 
 The repository contains separate client and server components, alongside Windows configuration artifacts and supporting utilities.
 
